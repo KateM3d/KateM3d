@@ -1,4 +1,4 @@
-### Hi, I'm Kate👋 
+# Hi, I'm Kate👋 
 
 I'm a professional web developer. My passion for programming started after several years of a career in the marketing field. Today, I'm a web developer with hands-on experience in designing, building and deploying responsive web applications.
 
