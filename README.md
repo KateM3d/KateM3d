@@ -10,7 +10,7 @@ I'm a professional web developer. My passion for programming started after sever
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateM3d&layout=compact&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateM3d&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
