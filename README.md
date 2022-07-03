@@ -2,8 +2,8 @@
 
 I'm a professional web developer. My passion for programming started after several years of a career in the marketing field. Today, I'm a web developer with hands-on experience in designing, building and deploying responsive web applications.
 
-- 🔭 I’m currently working on flashcards SPA (React) that will help people to learn languages!
-- 🌱 I’m currently learning Redux and TypeScript
+- 🔭 I’m interested in full stack development!
+- 🌱 I’m currently learning Node.js
 - 💬 Let's talk about web development!
 
 - ⚡ Fun fact about me: for the past 10 years I have lived in 4 different countries and can speak 4 languages.
