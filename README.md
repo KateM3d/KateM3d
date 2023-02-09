@@ -1,6 +1,6 @@
 # Hi, I'm Kate👋 
 
-I'm a professional web developer. My passion for programming started after several years of a career in the marketing field. Today, I'm a web developer with hands-on experience in designing, building and deploying responsive web applications.
+I'm a professional software developer. My passion for programming started after several years of a career in the marketing field. Today, I'm a web developer with hands-on experience in designing, building and deploying responsive web applications.
 
 - 🔭 I’m interested in full stack development!
 - 🌱 I’m currently learning Java
